@@ -9,7 +9,7 @@
 title: WebLog
 description: 'Voor wie het lezen wil' # write a nice description for your blog
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://prisse.nl' # the base hostname & protocol for your site http://www.example.com
+url: 'https://prisse.nl' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 
 # Build settings
