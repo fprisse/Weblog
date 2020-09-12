@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Daar waar de elven vandaan komen"
+date:   2015-07-03 00:00:01 +0100
+categories:
+---
+![utnesboot]({{ site.url }}/assets/utnesboot.jpg)
+
+Na jaren van verzuim nu eindelijk weer eens op Utnes, vlak bij Arendal. Eens heeft iemand me verteld dat toen Tolkien zijn Lord of the Rings schreef hij Rivendell, de valei waar de elven wonen, baseerde op Arendal. Of dat nu waar is of niet maakt eigenlijk niet zo veel uit. Het is hier sprookjesachtig mooi en de mensen hebben ook wel iets elfachtigs. Nu lekker slaapjes doen, morgenvroeg hier de zee in plonzen.

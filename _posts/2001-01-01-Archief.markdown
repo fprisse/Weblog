@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Archief"
+date:   2001-01-01 00:00:01 +0100
+categories:
+---
+[Click hier om het archief te bekijken](/archief/)
+
+grote file, duurt even om te laden.
+
+![archief]({{ site.url }}/assets/archief.png)
