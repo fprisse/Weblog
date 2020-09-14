@@ -8,7 +8,7 @@ categories: Vakantie
 ### Schiermonnikoog, een panacee
 
  <video style="width:100%" controls>
-  <source src="http://prisse.net/schierzat.mp4">
+  <source src="https://prisse.net/schierzat.mp4">
  ![videotag not supported]({{ site.url }}/assets/schierzat.jpg)
 </video> 
 
@@ -16,4 +16,4 @@ Met hele bende gisteren by Talsma geland.
 Hier is niks zwart of wit, zelfs niet grijs.  
 Alles krijgt hier kleur.
 
-[HD versie](http://prisse.net/schierzat_full.mov)  
+[HD versie](https://prisse.net/schierzat_full.mov)  
