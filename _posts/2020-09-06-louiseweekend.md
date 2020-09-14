@@ -6,7 +6,7 @@ categories: Moeder
 ---
 
 ### Zon, Water, Koffie en Koken
-![louiseweekend](http://www.prisse.nl/assets/louiseweekend.png)  
+![louiseweekend]({{ site.url }}/assets/louiseweekend.png)  
 
 Mama dit weekend onder mijn vleugel, ik zie er altijd een beetje tegenop maar als we eenmaal onderweg zijn is alles pais en vree. Het recept is eigenlijk doodeenvoudig: Koffie op het [terras](http://www.schoolhuisholysloot.nl/), mee op de boot, samen koken en eten op de bank 
 
