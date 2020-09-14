@@ -4,8 +4,6 @@ title: Privacy policy & GDPR Compliance
 permalink: /gdpr/
 ---
 
-### Our privacy policy:
-
 This blog solely tracks visitors IP adresses and visits for sole the purpose of:
  - protecting this blog against malicious users;
  - optimizing the performance of the blog;
