@@ -7,7 +7,7 @@ categories: Vakantie
 
 ### Schiermonnikoog, een panacee
 
- <video width="640" height="360" controls>
+ <video style="width:100%" controls>
   <source src="http://prisse.net/schierzat.mp4">
  ![videotag not supported]({{ site.url }}/assets/schierzat.jpg)
 </video> 
