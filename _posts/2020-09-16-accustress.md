@@ -5,7 +5,7 @@ date: 2020-09-16 17:30:00 +0100
 categories: Vakantie
 ---
 
-### Soms doe je alles goed, soms..
+### Accustress
 [homeland](https://prisse.net/homeland.jpg)  
 
 Juist afgelopen zondag heb ik mijn reserve-accu uitgeleend aan Ahmed om zijn boot leeg te pompen. Gisteren kwam Nanne  naar mij om te aan gvaren en zwemmen.
