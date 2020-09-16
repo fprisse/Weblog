@@ -6,7 +6,7 @@ categories: Vakantie
 ---
 
 ### Accustress
-[homeland](https://prisse.net/homeland.jpg)  
+![homeland](https://prisse.net/homeland.jpg)  
 
 Juist afgelopen zondag heb ik mijn reserve-accu uitgeleend aan Ahmed om zijn boot leeg te pompen. Gisteren kwam Nanne  naar mij om te aan gvaren en zwemmen.
 De boot wilde niet starten, dus met startkabels hem aangeslingerd. Gelukkig stond de auto praktisch naast de boot langs de gracht. Hop vrolijk onderweg. 
