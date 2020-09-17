@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dapper en Koen
-date: 2020-08-04 18:00:00 +0100
+date: 2020-09-17 18:00:00 +0100
 categories: Vakantie
 ---
 
@@ -11,4 +11,4 @@ categories: Vakantie
  ![videotag not supported](https://prisse.net/dapper_alex.png)
 </video>
 
-Een van deze hummeltjes moet het worden. Thesa haar hond dapper is drachtig en ik mag er straks in oktober ééntje uitzoeken ! 
+Een van deze hummeltjes moet het worden. Thesa haar hond dapper is drachtig en ik mag er straks in oktober ééntje uitzoeken !
