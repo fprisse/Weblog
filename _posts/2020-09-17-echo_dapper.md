@@ -11,4 +11,4 @@ categories: Vakantie
  ![videotag not supported](https://prisse.net/dapper_alex.png)
 </video>
 
-Een van deze hummeltjes moet het worden. Thesa haar hond dapper is drachtig en ik mag er straks in oktober ééntje uitzoeken !
+Een van deze hummeltjes moet het worden. Thesa haar hond dapper is drachtig en ik mag er straks ééntje uitzoeken !
