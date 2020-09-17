@@ -1,5 +1,5 @@
 const background = document.querySelector('#background'); // background derived from album cover below
-const thumbnail = document.querySelector('#thumbnail'); // album cover 
+const thumbnail = document.querySelector('#thumbnail'); // album cover
 const song = document.querySelector('#song'); // audio object
 
 const songArtist = document.querySelector('.song-artist'); // element where track artist appears
@@ -8,10 +8,10 @@ const progressBar = document.querySelector('#progress-bar'); // element where pr
 let pPause = document.querySelector('#play-pause'); // element where play and pause image appears
 
 songIndex = 0;
-songs = ['./assets/music/beyonce.mp3', './assets/music/dontstartnow.mp3']; // object storing paths for audio objects
-thumbnails = ['./assets/images/lemonade.png', './assets/images/dontstartnow.png']; // object storing paths for album covers and backgrounds
-songArtists = ['Beyonce', 'Dua Lipa']; // object storing track artists
-songTitles = ["Don't Hurt Yourself", "Don't Start Now"]; // object storing track titles
+songs = ['http://direct.fipradio.fr/live/fip-midfi.mp3', './assets/music/dontstartnow.mp3']; // object storing paths for audio objects
+thumbnails = ['./assets/images/fip_radio.png', './assets/images/dontstartnow.png']; // object storing paths for album covers and backgrounds
+songArtists = ['FIP Stream', 'Dua Lipa']; // object storing track artists
+songTitles = ["Radio", "Don't Start Now"]; // object storing track titles
 
 // function where pp (play-pause) element changes based on playing boolean value - if play button clicked, change pp.src to pause button and call song.play() and vice versa.
 let playing = true;
@@ -22,13 +22,13 @@ function playPause() {
 
         pPause.src = "./assets/icons/pause.png"
         thumbnail.style.transform = "scale(1.15)";
-        
+
         song.play();
         playing = false;
     } else {
         pPause.src = "./assets/icons/play.png"
         thumbnail.style.transform = "scale(1)"
-        
+
         song.pause();
         playing = true;
     }
@@ -39,7 +39,7 @@ song.addEventListener('ended', function(){
     nextSong();
 });
 
-// function where songIndex is incremented, song/thumbnail image/background image/song artist/song title changes to next index value, and playPause() runs to play next track 
+// function where songIndex is incremented, song/thumbnail image/background image/song artist/song title changes to next index value, and playPause() runs to play next track
 function nextSong() {
     songIndex++;
     if (songIndex > 1) {
@@ -56,7 +56,7 @@ function nextSong() {
     playPause();
 }
 
-// function where songIndex is decremented, song/thumbnail image/background image/song artist/song title changes to previous index value, and playPause() runs to play previous track 
+// function where songIndex is decremented, song/thumbnail image/background image/song artist/song title changes to previous index value, and playPause() runs to play previous track
 function previousSong() {
     songIndex--;
     if (songIndex < 0) {
@@ -89,7 +89,7 @@ function updateProgressValue() {
 function formatTime(seconds) {
     let min = Math.floor((seconds / 60));
     let sec = Math.floor(seconds - (min * 60));
-    if (sec < 10){ 
+    if (sec < 10){
         sec  = `0${sec}`;
     };
     return `${min}:${sec}`;
