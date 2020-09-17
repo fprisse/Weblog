@@ -1,19 +1,14 @@
 ---
 layout: post
-title: Mercedes-Benz
+title: Dapper en Koen
 date: 2020-08-04 18:00:00 +0100
 categories: Vakantie
 ---
 
-### Nieuwe dynamo monteren, of toch niet.
-
+### Echo van drachtige dapper
  <video style="width:100%" controls>
-  <source src="https://prisse.net/mercedes.mp4">
- ![videotag not supported]({{ site.url }}/assets/mercedes.png)
-</video> 
+  <source src="https://prisse.net/echo_dap.mp4">
+ ![videotag not supported](https://prisse.net/dapper_alex.png)
+</video>
 
-Licht vermoeid na een uitbundig weekend buiten op Schier, vandaag bij Douwe gesleuteld aan zijn camper. De accu's laadden niet meer op en er was reeds een 'nieuwe' sloop-dynamo ingekocht. Tijdens het loshalen van de oude dynamo bleek de spanner gebroken te zijn. Eerst die maar weer in ere hersteld met de hulp van [de vader van een klasgenoot van Anne-Beitske](http://koudenburgtechniek.nl/) die er kundig een ringetje oplasde. De oude dynamo, met een nieuwe V-riem (die douwe in reserve had) er weer opgezet: Voila: Weer stroom ! 
-
-Nu we toch bezig waren ook maar even de gaskabel een beetje opgekalefaterd en een afgebroken bout van de beschermkap onder de motor uitgeboord en een nieuw schroefdraad getapt.  
-
-Met veel mannelijke trots in onze donder zijn we na afloop aan het Lauwersmeer gaan wildkamperen.
+Een van deze hummeltjes moet het worden. Thesa haar hond dapper is drachtig en ik mag er straks in oktober ééntje uitzoeken ! 

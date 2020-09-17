@@ -8,26 +8,8 @@ const progressBar = document.querySelector('#progress-bar'); // element where pr
 let pPause = document.querySelector('#play-pause'); // element where play and pause image appears
 
 songIndex = 0;
-songs = ['http://direct.fipradio.fr/live/fip-midfi.mp3',
-'https://direct.fipradio.fr/live/fip-webradio1.mp3',
-'https://direct.fipradio.fr/live/fip-webradio2.mp3',
-'https://direct.fipradio.fr/live/fip-webradio3.mp3',
-'https://direct.fipradio.fr/live/fip-webradio4.mp3',
-'https://direct.fipradio.fr/live/fip-webradio5.mp3',
-'https://direct.fipradio.fr/live/fip-webradio6.mp3',
-'https://direct.fipradio.fr/live/fip-webradio7.mp3',
-'https://direct.fipradio.fr/live/fip-webradio8.mp3',
-'./assets/music/dontstartnow.mp3', ];
-thumbnails = ['./assets/images/fip_radio.png',
-'./assets/images/fip_rock.png',
-'./assets/images/fip_jazz.png',
-'./assets/images/fip_groove.png',
-'./assets/images/fip_pop.png',
-'./assets/images/fip_electro.png',
-'./assets/images/fip_monde.png',
-'./assets/images/fip_reggae.png',
-'./assets/images/fip_nouveau.png',
-'./assets/images/dontstartnow.png'];
+songs = ['http://direct.fipradio.fr/live/fip-midfi.mp3', 'https://direct.fipradio.fr/live/fip-webradio1.mp3', 'https://direct.fipradio.fr/live/fip-webradio2.mp3', 'https://direct.fipradio.fr/live/fip-webradio3.mp3', 'https://direct.fipradio.fr/live/fip-webradio4.mp3', 'https://direct.fipradio.fr/live/fip-webradio5.mp3', 'https://direct.fipradio.fr/live/fip-webradio6.mp3', 'https://direct.fipradio.fr/live/fip-webradio7.mp3', 'https://direct.fipradio.fr/live/fip-webradio8.mp3', './assets/music/dontstartnow.mp3'];
+thumbnails = ['./assets/images/fip_radio.png', './assets/images/fip_rock.png', './assets/images/fip_jazz.png', './assets/images/fip_groove.png', './assets/images/fip_pop.png', './assets/images/fip_electro.png', './assets/images/fip_monde.png', './assets/images/fip_reggae.png', './assets/images/fip_nouveau.png', './assets/images/dontstartnow.png'];
 songArtists = ['www.fip.fr', 'www.fip.fr', 'www.fip.fr', 'www.fip.fr', 'www.fip.fr', 'www.fip.fr', 'www.fip.fr', 'www.fip.fr', 'www.fip.fr', 'Dua Lipa']; // object storing track artists
 songTitles = ["FIP Radio", "Rock", "Jazz", "Groove", "Pop", "Electro". "Monde", "Reggae", "Nouveautès", "Don't start now"]; // object storing track titles
 
