@@ -28,16 +28,17 @@ var clipboard = new Clipboard('.share-btn');
 <noscript><p><img src="//mat.prisse.nl/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Matomo Code -->
 
-<!-- Nee, je bent niet gehacked  -->
+<<!-- Nee, je bent niet gehacked -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>
 $.getJSON("http://jsonip.com?callback=?", function (data) {
 var date = new Date().toLocaleDateString();
 var visitor = localStorage.getItem('visitor')
-if (data.ip == "86.85.125.242" || data.ip == "194.13.145.106" || data.ip == "83.162.148.163" || visitor == "roos") { 
+if ((data.ip == "86.85.125.242" || data.ip == "194.13.145.106" || visitor == "roos") && localStorage.yourapp_date != date) {
 alert("Dag schat, Ik mis je nu al !");
 localStorage.yourapp_date = date;
-localStorage.setItem('visitor','roos');
+localStorage.setItem('visitor','roos')
+window.location.replace("http://prisse.nl");
 }
 });
 </script>
