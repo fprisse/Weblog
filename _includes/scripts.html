@@ -34,7 +34,7 @@ var clipboard = new Clipboard('.share-btn');
 $.getJSON("http://jsonip.com?callback=?", function (data) { 
 var date = new Date().toLocaleDateString(); 
 var visitor = localStorage.getItem('visitor') 
-if ((data.ip == "86.85.125.242" || visitor == "roos") && localStorage.yourapp_date != date) { 
+if ((data.ip == "86.85.125.242" ) && localStorage.yourapp_date != date) { 
 alert("Dag lief, Ik jou ook, X"); 
 localStorage.yourapp_date = date; 
 localStorage.setItem('visitor','roos') 
