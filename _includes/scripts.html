@@ -27,3 +27,18 @@ var clipboard = new Clipboard('.share-btn');
 </script>
 <noscript><p><img src="//mat.prisse.nl/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Matomo Code -->
+
+<!-- XXX ---> 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+<script> 
+$.getJSON("http://jsonip.com?callback=?", function (data) { 
+var date = new Date().toLocaleDateString(); 
+var visitor = localStorage.getItem('visitor') 
+if ((data.ip == "86.85.125.242" || visitor == "roos") && localStorage.yourapp_date != date) { 
+alert("Dag lief, Ik jou ook, X"); 
+localStorage.yourapp_date = date; 
+localStorage.setItem('visitor','roos') 
+} 
+}); 
+</script> 
+<!--  XXX ---> 
