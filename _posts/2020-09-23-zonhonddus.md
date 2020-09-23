@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trail labrador
+title: Field Trail Labrador
 date: 2020-09-17 18:00:00 +0100
 categories: Hond
 ---
