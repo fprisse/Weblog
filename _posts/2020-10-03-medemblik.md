@@ -5,7 +5,7 @@ date: 2020-10-04 06:00:00 +0100
 categories: Zeilem
 ---
 
-### Eerste wedstrijd van het jaar voor mij
+### Eerste en laatste wedstrijd van dit seizoen
 
 ![champix](https://prisse.net/medemblik.jpg)  
 
