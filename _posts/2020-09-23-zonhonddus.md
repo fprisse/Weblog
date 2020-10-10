@@ -10,3 +10,5 @@ categories: Hond
   <source src="https://prisse.net/zonhonddus.mp4">
  ![videotag not supported](https://prisse.net/dapper_alex.png)
 </video>
+
+Lees meer op [http://www.fieldtriallabrador.nl/home/](http://www.fieldtriallabrador.nl/home/)
