@@ -23,7 +23,7 @@ More is less
 ![More Is Less]({{ site.url }}/assets/amlife-more_is_less.mp3)
 </audio>
 
-  Someone else's Money
+Someone else's Money
 <audio src="{{ site.url }}/assets/amlife-someone_elses_money.mp3)" controls>
 ![Someone Else's Money]({{ site.url }}/assets/amlife-someone_elses_money.mp3)
 </audio>
