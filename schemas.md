@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “Oude onaangepaste schema’s"
+title: Oude onaangepaste schema’s
 date: 2020-04-27 00:00:01 +0100
 categories: Covid-19
 ---
