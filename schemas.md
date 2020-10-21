@@ -27,9 +27,9 @@ Houdt gewoonlijk de perceptie in dat pijn/schade opzettelijk wordt toegebracht o
 
 De voornaamste vormen van emotioneel tekort zijn:
 
-A. gebrek aan koestering : het ontbreken van aandacht, affectie, warmte of gezelschap;
-B. gebrek aan empathie : het ontbreken van anderen die begrip tonen, luisteren, zich blootgeven of laten delen in hun gevoelens;
-C. gebrek aan bescherming : het ontbreken van anderen die kracht, richting of raad geven.
+A. gebrek aan koestering : het ontbreken van aandacht, affectie, warmte of gezelschap;  
+B. gebrek aan empathie : het ontbreken van anderen die begrip tonen, luisteren, zich blootgeven of laten delen in hun gevoelens;  
+C. gebrek aan bescherming : het ontbreken van anderen die kracht, richting of raad geven.  
 
 
 ## 4. Tekortschieten/schaamte
@@ -63,9 +63,9 @@ Bijvoorbeeld voor jezelf zorgen, dagelijkse problemen oplossen, dingen goed beoo
 
 Angsten betreffen een of meer van de volgende mogelijkheden:
 
-(a) medische rampen (bijv. hartaanval, AIDS)
-(b) emotionele rampen (bijv. gek worden)
-(c) rampen van buitenaf (bijv. neerstortende lift, geweldsmisdrijf, neerstortend vliegtuig, aardbeving).
+(a) medische rampen (bijv. hartaanval, AIDS)  
+(b) emotionele rampen (bijv. gek worden)  
+(c) rampen van buitenaf (bijv. neerstortende lift, geweldsmisdrijf,   neerstortend vliegtuig, aardbeving).  
 
 
 ## 8. Kluwen / onderontwikkeld zelf
@@ -106,8 +106,9 @@ In mildere vorm vertoont de patiënt een overdreven nadruk op het vermijden van 
 
 ### Het overmatig afstaan van controle aan anderen omdat je je daartoe gedwongen voelt – zwichten om woede, vergelding of verlating te voorkomen. De twee belangrijkste vormen van onderwerping zijn:
 
-A. onderwerping van behoeften : eigen voorkeuren, beslissingen en verlangens verdringen;
-B. onderwerping van emoties : emoties, met name woede, verdringen.
+A. onderwerping van behoeften : eigen voorkeuren, beslissingen en verlangens verdringen;  
+B. onderwerping van emoties : emoties, met name woede, verdringen.  
+
 Houdt gewoonlijk de perceptie in dat je eigen verlangens, meningen en gevoelens niet geldig of waardevol zijn voor anderen. Vertoont vaak overmatige meegaandheid, gecombineerd met overdreven vatbaarheid voor het gevoel in een val te zitten.
 
 Leidt gewoonlijk tot opkroppen van woede, dat zich uit in onaangepaste symptomen (bijv. passief-agressief gedrag, onbeheerste driftbuien, psychosomatische symptomen, terugtrekken van affectie, uitageren, middelengebruik).
@@ -154,10 +155,10 @@ Omdat eventuele negatieve gevolgen worden overdreven, worden deze mens er vaak g
 
 De meest voorkomende gebieden van inhibitie zijn:
 
-(a) inhibitie van woede en agressie
-(b) inhibitie van positieve impulsen (bijv. plezier, affectie, seksuele opwinding, spel)
-(c) moeite om kwetsbaarheid te uiten of onbevangen over gevoelens, behoeften, etc. te communiceren
-(d) overmatige nadruk op rationaliteit met voorbijgaan aan emoties.
+(a) inhibitie van woede en agressie  
+(b) inhibitie van positieve impulsen (bijv. plezier, affectie, seksuele opwinding, spel)  
+(c) moeite om kwetsbaarheid te uiten of onbevangen over gevoelens, behoeften, etc. te communiceren  
+(d) overmatige nadruk op rationaliteit met voorbijgaan aan emoties.  
 
 
 ## 17. Strenge normen / overkritisch zijn
@@ -168,9 +169,9 @@ Heeft vaak tot gevolg dat je je onder druk voelt staan of er moeite mee hebt om 
 
 Strenge normen komen meestal tot uitdrukking in de vorm van:
 
-(a) perfectionisme, ongewone aandacht voor details of onderwaardering voor eigen functioneren ten opzichte van de norm
-(b) starre regels en ‘geboden’ op vele levensgebieden, waaronder irreëel strenge morele, ethische, culturele of religieuze voorschriften of
-(c) preoccupatie met tijd en efficiëntie, de behoefte om meer tot stand te brengen.
+(a) perfectionisme, ongewone aandacht voor details of onderwaardering voor eigen functioneren ten opzichte van de norm  
+(b) starre regels en ‘geboden’ op vele levensgebieden, waaronder irreëel strenge morele, ethische, culturele of religieuze voorschriften of  
+(c) preoccupatie met tijd en efficiëntie, de behoefte om meer tot stand te brengen.  
 
 
 ## 18. Bestraffendheid
