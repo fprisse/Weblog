@@ -1,12 +1,9 @@
 ---
 layout: page
-title: “Communicatieregels ten tijde van conflict"
+title: “Oude onaangepaste schema’s"
 date: 2020-04-27 00:00:01 +0100
 categories: Covid-19
 ---
-
-# Oude onaangepaste schema’s
-
 
 ## 1. Verlating/instabiliteit
 
