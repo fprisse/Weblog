@@ -8,7 +8,7 @@ categories: Huis
 ### Voor de achterwand van mijn badkamer
 ![houtsoorten]({{ site.url }}/assets/houtsoorten.gif)  
 
-Als je maar lang genoeg wacht, en geloof me, dat heb ik gedaan, dan komt er vanzelf wel een mooi edoch uitvoerbaar plan. Zo ook voor mijn badkamer. Alles besteld bij Geberit (kant en klaar met kranen en afvoer er al in). Nu nog het hout uitzoeken wat er voor moet komen, en ook voor de badombouw.
+Als je maar lang genoeg wacht, en geloof me, dat heb ik gedaan, dan komt er vanzelf wel een mooi edoch uitvoerbaar plan. Zo ook voor mijn badkamer. Alles besteld bij [Geberit](https://www.geberit.de/produkte/badserien/geberit-one/) (kant en klaar met kranen en afvoer er al in). Nu nog het hout uitzoeken wat er voor moet komen, en ook voor de badombouw.
 
 Ibachi, Afromosia, Wit essen, Bruin essen, Iep, Iroko, Noten of Mahonie
 
