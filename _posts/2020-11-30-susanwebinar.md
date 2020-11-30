@@ -11,6 +11,4 @@ categories: Work
 
 Attendees will also be able to hear key “get rights” for manufacturing and ask questions to our experienced panel of implementation leaders.
 
-(dat vind ik dus best spannend om te doen)
-
 Meld je [hier](https://www.capgemini.com/gb-en/events/intelligent-supply-networks-webinar-series/#pf_form_463093) aan.
