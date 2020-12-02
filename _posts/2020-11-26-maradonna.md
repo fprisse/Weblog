@@ -6,7 +6,7 @@ categories: huis
 ---
 ## Karma ?
 
-![maradonna](https://prisse.net/maradonna.png)  
+![maradonna](https://prisse.nl/maradonna.png)  
 
 in 2005 na een bezoek aan Pizzeria Doria, bij mij om de hoek, vond hij het nodig om hier voor de deur wild te plassen !
 Voor het AT5 filmpje zie [hier](https://www.at5.nl/artikelen/205855/diego-maradona-in-amsterdam-een-uitbundig-persoon.
