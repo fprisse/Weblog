@@ -7,7 +7,7 @@ categories: Economics
 
 ### Health care delivery is not a science
 
-It should be a public service, but today it is a business. As much as we don't want Business Executives or Public Servants posing as doctors; we don't want doctors posing as businessmen. This is ill advise for both wallet and health.
+It should be a public service, but today it is a business. As much as we don't want Business Executives or Public Servants posing as doctors; we don't want doctors acting as businessmen (not even if they were good at it). This is ill advise for both wallet and health.
 
 Michael Porter points this out in his 2011 venture into healthcare economics: "Healthcare is organised around the exception rather than the rule" and "The way we are organised is the way we are trained rather the stuff we do"
 
