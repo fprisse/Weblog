@@ -25,4 +25,4 @@ Therèse Prisse, Celebesstraat 70 2585 TN Den Haag,
 Caroline Prisse, Oude Waal 33, 1011 CC Amsterdam of  
 Florent Prisse, Pieter Jacobszstraat 17, 1012 HL Amsterdam  
 
-je kan [hier](https://prisse.nl/talktome/) nu alvast een kort berichtje typen
+U kunt eventueel [hier](https://prisse.nl/talktome/) alvast een kort berichtje typen
