@@ -8,7 +8,7 @@ Amsterdam 19 December 2020
 
 ### Louise Donker
 
-![louisedonker]({{ site.url }}/assets/louisedonker.jpg)  
+![louisedonker](https://prisse.nl/assets/louisedonker.jpg)  
 
 Louise, onze moeder is vanavond in onze armen overleden
 
