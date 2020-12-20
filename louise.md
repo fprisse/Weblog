@@ -15,14 +15,14 @@ Amsterdam - 19 December 2020
 Het afscheid doen wij in kleine kring in verband met de Covid-19 maatregelen.
 
 Wat we heel fijn zouden vinden zijn brieven per post.
-Deze kunnen naar één van on gestuurd worden op onderstaande adressen.
+Deze kunnen naar onderstaand adres worden gestuurd.
 
 Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren.
 
 Therèse, Caroline en Florent
 
-Therèse Prisse, Celebesstraat 70 2585 TN Den Haag,  
-Caroline Prisse, Oude Waal 33, 1011 CC Amsterdam of  
-Florent Prisse, Pieter Jacobszstraat 17, 1012 HL Amsterdam  
+p/a Niels Jens Uitvaartzorg
+van Tuyll van Serooskerkenweg 27hs
+1076 JB Amsterdam
 
 U kunt eventueel [hier](https://prisse.nl/talktome/) alvast een kort berichtje typen
