@@ -1,25 +1,31 @@
 ---
 layout: page
-title: Louise Donker 1942 - 2020
-permalink: /louise/
+title: Muziek voor mama's uitvaart
+permalink: /muziekmama/
 ---
 
-### Onze moeder is vanavond in onze armen overleden.
+Klik hier voor Instructie downloaden weblinks
 
-![louisedonker](https://prisse.nl/assets/louisedonker.jpg)  
+1) Sowieso:
+https://prisse.net/muziekmama/bakerstreet.mp3
+https://prisse.net/muziekmama/songbird.m4a
 
-Amsterdam - 19 December 2020
 
-*Jemig, moeder wat heb je het goed gedaan ! Je hebt ons laten zien hoe mooi de wereld kan zijn en geleerd om te gaan met de onvermijdelijke hindernissen. Mama nu kwijt zijn is een flinke bult in de weg maar één die wij nu samen nemen.*  
+2) Verdi mama's selectie:
+https://prisse.net/muziekmama/offertorio.m4a
+https://prisse.net/muziekmama/recordare.m4a
 
-Het afscheid doen wij in kleine kring in verband met de Covid-19 maatregelen.
+2a) Verdi floor's suggestie:
+https://prisse.net/muziekmama/liberscriptus.m4a
 
-Wat we heel fijn vinden zijn brieven per post; deze kunnen naar onderstaand adres worden gestuurd.
+3) Uit cello sonates Bach:
+https://prisse.net/muziekmama/sarabande.m4a
 
-Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren.
 
-Therèse, Caroline en Florent
+4) Meezing opties:
+https://prisse.net/muziekmama/thewateriswide.m4a
+https://prisse.net/muziekmama/motherland.m4a
 
-p/a Niels Jens Uitvaartzorg  
-van Tuyll van Serooskerkenweg 27hs  
-1076 JB Amsterdam
+5) Eric Satie (nog luisteren)
+https://prisse.net/muziekmama/satie_1.mp3
+https://prisse.net/muziekmama/satie_2.mp3
