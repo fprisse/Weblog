@@ -30,5 +30,5 @@ Verdi floor's suggestie:
 hieronder een instrucie video voor het direct downloaden van muziek URL's
 
 <video style="width:100%" controls>
- <source src="https://prisse.net/rechtermuisknop.mp4">
+ <source src="https://prisse.net/muziekmama/rechtermuisknop.mp4">
 </video>
