@@ -12,14 +12,14 @@ permalink: /muziekmama/
 [offertorio](https://prisse.net/muziekmama/offertorio.m4a)  
 [recordare](https://prisse.net/muziekmama/recordare.m4a)  
 Verdi floor's suggestie:  
-[liberscriptus](https://prisse.net/muziekmama/liberscriptus.m4a)  
+[liber scriptus](https://prisse.net/muziekmama/liberscriptus.m4a)  
 
 3) Uit cello sonates Bach:  
 [sarabande](https://prisse.net/muziekmama/sarabande.m4a)  
 
 
-4) Meezing opties:  
-[thewateriswide](https://prisse.net/muziekmama/thewateriswide.m4a  
+4) Meezing opties:   
+[the water is wide](https://prisse.net/muziekmama/thewateriswide.m4a)  
 [motherland](https://prisse.net/muziekmama/motherland.m4a)  
 
 5) Eric Satie (nog luisteren)  
