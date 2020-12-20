@@ -4,13 +4,13 @@ title: Louise Donker 1942 - 2020
 permalink: /louise/
 ---
 
-### Amsterdam - 19 December 2020
+### Louise, onze moeder, is vanavond in onze armen overleden.
 
 ![louisedonker](https://prisse.nl/assets/louisedonker.jpg)  
 
-Louise, onze moeder, is vanavond in onze armen overleden.
+Amsterdam - 19 December 2020
 
-Jemig, moeder wat heb je het goed gedaan ! Je hebt ons laten zien hoe mooi de wereld kan zijn en om leren gaan met de onvermijdelijke hindernissen. Mama nu kwijt zijn is een flinke bult in de weg maar één die wij nu samen nemen.  
+*Jemig, moeder wat heb je het goed gedaan ! Je hebt ons laten zien hoe mooi de wereld kan zijn en geleerd om te gaan met de onvermijdelijke hindernissen. Mama nu kwijt zijn is een flinke bult in de weg maar één die wij nu samen nemen.*  
 
 Het afscheid doen wij in kleine kring in verband met de Covid-19 maatregelen.
 
