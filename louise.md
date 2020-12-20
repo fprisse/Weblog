@@ -22,7 +22,7 @@ Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren.
 Therèse, Caroline en Florent
 
 Therèse Prisse, Celebesstraat 70 2585 TN Den Haag,  
-Caroline Prisse, Oude Waal 33, 1011 CC Amsterdam of  
+Caroline Prisse, Oude Waal 35-sous, 1011 CC Amsterdam of  
 Florent Prisse, Pieter Jacobszstraat 17, 1012 HL Amsterdam  
 
 U kunt eventueel [hier](https://prisse.nl/talktome/) alvast een kort berichtje typen
