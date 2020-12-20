@@ -20,8 +20,6 @@ Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren.
 
 Therèse, Caroline en Florent
 
-p/a Niels Jens Uitvaartzorg
-van Tuyll van Serooskerkenweg 27hs
+p/a Niels Jens Uitvaartzorg  
+van Tuyll van Serooskerkenweg 27hs  
 1076 JB Amsterdam
-
-U kunt eventueel [hier](https://prisse.nl/talktome/) alvast een kort berichtje typen
