@@ -4,7 +4,7 @@ title: Louise Donker 1942 - 2020
 permalink: /louise/
 ---
 
-### Louise, onze moeder, is vanavond in onze armen overleden.
+### Onze moeder is vanavond in onze armen overleden.
 
 ![louisedonker](https://prisse.nl/assets/louisedonker.jpg)  
 
@@ -14,8 +14,7 @@ Amsterdam - 19 December 2020
 
 Het afscheid doen wij in kleine kring in verband met de Covid-19 maatregelen.
 
-Wat we heel fijn zouden vinden zijn brieven per post.
-Deze kunnen naar onderstaand adres worden gestuurd.
+Wat we heel fijn zouden vinden zijn brieven per post; deze kunnen naar onderstaand adres worden gestuurd.
 
 Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren.
 
