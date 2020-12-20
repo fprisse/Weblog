@@ -4,7 +4,7 @@ title: Louise Donker 1942 - 2020
 permalink: /louise/
 ---
 
-### Onze moeder is vanavond in onze armen overleden.
+### Mama is vanavond in onze armen overleden.
 
 ![louisedonker](https://prisse.nl/assets/louisedonker.jpg)  
 
