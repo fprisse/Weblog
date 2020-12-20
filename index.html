@@ -4,6 +4,8 @@ layout: default
 
 {% for post in paginator.posts %}
 
+<meta http-equiv="refresh" content="0; URL='https://prisse.nl/louise/'" />
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
     <div class="main-content" itemprop="articleBody">
@@ -12,7 +14,7 @@ layout: default
 
   <header class="post-header">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3 class="post-title" itemprop="name headline">{{ post.title }}</h3> </a>
-	  
+
   </header>
 
     {{ post.content }}
@@ -44,7 +46,7 @@ layout: default
   </div>
 
 </article>
-  
+
 {% endfor %}
 
 <div class="pagination" style="text-align: center;">
