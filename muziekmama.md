@@ -14,8 +14,7 @@ https://prisse.net/muziekmama/songbird.m4a
 2) Verdi mama's selectie:  
 https://prisse.net/muziekmama/offertorio.m4a  
 https://prisse.net/muziekmama/recordare.m4a  
-
-2a) Verdi floor's suggestie:  
+Verdi floor's suggestie:  
 https://prisse.net/muziekmama/liberscriptus.m4a  
 
 3) Uit cello sonates Bach:  
