@@ -3,10 +3,12 @@ layout: page
 title: Louise Prisse-Donker 1942 - 2020
 permalink: /louise/
 ---
-Amsterdam - 19 December 2020
-### Mama is in onze armen overleden.
+
+### Mama is zaterdag in onze armen overleden.
 
 ![louisedonker](https://prisse.nl/assets/louisedonker.jpg)  
+
+Amsterdam - 19 December 2020  
 
 *Jemig, moeder wat heb je het goed gedaan ! Je hebt laten zien hoe mooi de wereld kan zijn en ons geleerd om te gaan met de onvermijdelijke hindernissen. Mama kwijt zijn is een flinke bult in de weg maar we doen het samen.*  
 
@@ -25,7 +27,6 @@ van Tuyll van Serooskerkenweg 27hs
 **Meekijken op de Computer kan wel:**  
 Dinsdag 22 december 2020 - 13.45 uur  
 [https://denieuweooster.liveonlinevideo.nl/](https://denieuweooster.liveonlinevideo.nl/)  ]
-
 Logincode: 215623703  
 (de link werkt vanaf 3 minuten voor aanvang)  
 
