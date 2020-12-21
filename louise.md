@@ -26,4 +26,4 @@ van Tuyll van Serooskerkenweg 27hs
 Dinsdag 22 december 2020 - 13.45 uur
 https://denieuweooster.liveonlinevideo.nl/
 Logincode: 215623703
-*nb. als het niet lukt vraag hulp aan een kleinkind of buurman; wij zijn even met andere dingen bezig*
+*nb. als het niet lukt vraag hulp aan een kleinkind of buurman; wij zijn even druk met andere dingen*
