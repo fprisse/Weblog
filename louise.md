@@ -14,8 +14,6 @@ Het afscheid doen wij in kleine kring in verband met Covid-19 maatregelen. Later
 
 Wat we heel fijn vinden zijn brieven per post; deze kunnen naar onderstaand adres worden gestuurd.
 
-Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren.
-
 Therèse, Caroline en Florent
 
 p/a Niels Jens Uitvaartzorg  
