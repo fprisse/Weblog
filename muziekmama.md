@@ -14,14 +14,13 @@ permalink: /muziekmama/
 Verdi floor's suggestie:  
 [liber scriptus](https://prisse.net/muziekmama/liberscriptus.mp3)  
 
-3) Bach_Cello Suite No1 in G
-(Dit stelt pien voor als muziek bij het binnenlopen)
-[praeludum](https://prisse.net/muziekmama/praeludum.mp3)  
-[allemande](https://prisse.net/muziekmama/allemande.mp3)
-[courante](https://prisse.net/muziekmama/courante.mp3)
-[sarabande](https://prisse.net/muziekmama/sarabande.mp3)
-[menuet](https://prisse.net/muziekmama/menuet.mp3)
-[gigue](https://prisse.net/muziekmama/gigue.mp3)
+3) Bach_Cello Suite No1 in G (Dit stelt pien voor als muziek bij het binnenlopen)  
+[praeludum](https://prisse.net/muziekmama/praeludum.mp3)   
+[allemande](https://prisse.net/muziekmama/allemande.mp3)  
+[courante](https://prisse.net/muziekmama/courante.mp3)  
+[sarabande](https://prisse.net/muziekmama/sarabande.mp3)  
+[menuet](https://prisse.net/muziekmama/menuet.mp3)  
+[gigue](https://prisse.net/muziekmama/gigue.mp3)  
 (Nando maakt er nog 1 doorlopende file van vanavond)
 
 4) Meezing opties:   
