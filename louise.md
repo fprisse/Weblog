@@ -22,8 +22,8 @@ p/a Niels Jens Uitvaartzorg
 van Tuyll van Serooskerkenweg 27hs  
 1076 JB Amsterdam
 
-**Meekijken op de Computer kan wel:**
-Dinsdag 22 december 2020 - 13.45 uur
-https://denieuweooster.liveonlinevideo.nl/
-Logincode: 215623703
+**Meekijken op de Computer kan wel:**  
+Dinsdag 22 december 2020 - 13.45 uur  
+https://denieuweooster.liveonlinevideo.nl/  
+Logincode: 215623703  
 *nb. als het niet lukt vraag hulp aan een kleinkind of buurman; wij zijn even druk met andere dingen*
