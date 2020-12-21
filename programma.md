@@ -16,7 +16,7 @@ Minne en Caatje steken de kaarsen aan
 
 *Cello Suite no 1 in G - IV. Sarabande – Bach, uitgevoerd door XXX*
 
-**Caroline Prisse : leest boodschap zus Carla Maarse voor**
+**Caroline Prisse : leest boodschap zus Carla Maarse voor**  
 **Otto van der Elst : vooraf opgenomen**
 
 *The water is wide – Rory Block*
