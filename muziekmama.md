@@ -27,9 +27,13 @@ Verdi floor's suggestie:
 [the water is wide](https://prisse.net/muziekmama/thewateriswide.mp3)  
 [motherland](https://prisse.net/muziekmama/motherland.mp3)  
 
-5) Eric Satie (nog luisteren)  
-[satie_1](https://prisse.net/muziekmama/satie_1.mp3)  
-[satie_2](https://prisse.net/muziekmama/satie_2.mp3)  
+5) Eric Satie - Gnossiennes
+[satie_1](https://prisse.net/muziekmama/satie_01.mp3)  
+[satie_2](https://prisse.net/muziekmama/satie_02.mp3)  
+[satie_2](https://prisse.net/muziekmama/satie_03.mp3)  
+[satie_2](https://prisse.net/muziekmama/satie_04.mp3)  
+[satie_2](https://prisse.net/muziekmama/satie_05.mp3)  
+[satie_2](https://prisse.net/muziekmama/satie_06.mp3)  
 
 6) Norah Jones  
 [shoot the moon](https://prisse.net/muziekmama/shootthemoon.mp3)  
