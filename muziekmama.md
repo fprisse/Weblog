@@ -1,34 +1,39 @@
----
+--
 layout: page
-title: Programma uitvaart Louise Donker
-permalink: /programma/
+title: Muziek voor mama's uitvaart
+permalink: /muziekmama/
 ---
 
-*Recordare uit het Requiem van Verdi, Berlin Philharmonic Orchestra,uitgevoerd door Mirella Freni, Christa Ludwig en de Vienna Singverein*
+1) Sowieso:  
+[bakerstreet](https://prisse.net/muziekmama/bakerstreet.mp3)  
+[songbird](https://prisse.net/muziekmama/songbird.mp3)
 
-Minne en Caatje steken de kaarsen aan
+2) Verdi mama's selectie:  
+[offertorio](https://prisse.net/muziekmama/offertorio.mp3)  
+[recordare](https://prisse.net/muziekmama/recordare.mp3)  
+Verdi floor's suggestie:  
+[liber scriptus](https://prisse.net/muziekmama/liberscriptus.mp3)  
 
-**Thésa Prisse**
+3) Bach_Cello Suite No1 in G
+[praeludum](https://prisse.net/muziekmama/praeludum.mp3)   
+[allemande](https://prisse.net/muziekmama/allemande.mp3)  
+[courante](https://prisse.net/muziekmama/courante.mp3)  
+[sarabande](https://prisse.net/muziekmama/sarabande.mp3)  
+[menuet](https://prisse.net/muziekmama/menuet.mp3)  
+[gigue](https://prisse.net/muziekmama/gigue.mp3)  
+(Nando maakt er nog 1 doorlopende file van vanavond - [ZIPmetWAVs](https://prisse.nl/muziekmama/Suites_1_in_G.zip)
 
-*Songbird – Fleetwood Mac*
+4) Meezing opties:   
+[the water is wide](https://prisse.net/muziekmama/thewateriswide.mp3)  
+[motherland](https://prisse.net/muziekmama/motherland.mp3)  
 
-**Gratia Prisse**
+5) Eric Satie - Gnossiennes
+[satie_1](https://prisse.net/muziekmama/satie_01.mp3)  
+[satie_2](https://prisse.net/muziekmama/satie_02.mp3)  
+[satie_3](https://prisse.net/muziekmama/satie_03.mp3)  
+[satie_4](https://prisse.net/muziekmama/satie_04.mp3)  
+[satie_5](https://prisse.net/muziekmama/satie_05.mp3)  
+[satie_6](https://prisse.net/muziekmama/satie_06.mp3)  
 
-*Cello Suite no 1 in G - IV. Sarabande – Bach, uitgevoerd door XXX*
-
-**Caroline Prisse : leest boodschap zus Carla Maarse voor**  
-**Otto van der Elst : vooraf opgenomen**
-
-*The water is wide – Rory Block*
-
-**Richard van Dyck**
-
-*Gnossienne No. 5 – Erik Satie*
-
-**Florent Prisse**
-
-*Baker Street – Gerry Rafferty*
-
-Gasten defileren langs de kist (P.M.: mondkapje)
-
-De familie voegt zich zo spoedig mogelijk bij de gasten, die vast in de condoleanceruimte zijn gaan zitten.
+6) Norah Jones  
+[shoot the moon](https://prisse.net/muziekmama/shootthemoon.mp3)  
