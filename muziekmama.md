@@ -27,7 +27,7 @@ Verdi floor's suggestie:
 [satie_2](https://prisse.net/muziekmama/satie_2.mp3)  
 
 6) Norah Jones
-(shoot the moon)(https://prisse.net/muziekmama/shootthemoon.mp3)  
+[shoot the moon](https://prisse.net/muziekmama/shootthemoon.mp3)  
 
 
 hieronder: instrucie voor het downloaden van muziek URL's met de rechtermuisknop
