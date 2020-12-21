@@ -21,7 +21,7 @@ Verdi floor's suggestie:
 [sarabande](https://prisse.net/muziekmama/sarabande.mp3)  
 [menuet](https://prisse.net/muziekmama/menuet.mp3)  
 [gigue](https://prisse.net/muziekmama/gigue.mp3)  
-(Nando maakt er nog 1 doorlopende file van vanavond)
+(Nando maakt er nog 1 doorlopende file van vanavond - [ZIPmetWAVs](https://prisse.nl/muziekmama/Suites_1_in_G.zip)
 
 4) Meezing opties:   
 [the water is wide](https://prisse.net/muziekmama/thewateriswide.mp3)  
