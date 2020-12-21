@@ -30,10 +30,10 @@ Verdi floor's suggestie:
 5) Eric Satie - Gnossiennes
 [satie_1](https://prisse.net/muziekmama/satie_01.mp3)  
 [satie_2](https://prisse.net/muziekmama/satie_02.mp3)  
-[satie_2](https://prisse.net/muziekmama/satie_03.mp3)  
-[satie_2](https://prisse.net/muziekmama/satie_04.mp3)  
-[satie_2](https://prisse.net/muziekmama/satie_05.mp3)  
-[satie_2](https://prisse.net/muziekmama/satie_06.mp3)  
+[satie_3](https://prisse.net/muziekmama/satie_03.mp3)  
+[satie_4](https://prisse.net/muziekmama/satie_04.mp3)  
+[satie_5](https://prisse.net/muziekmama/satie_05.mp3)  
+[satie_6](https://prisse.net/muziekmama/satie_06.mp3)  
 
 6) Norah Jones  
 [shoot the moon](https://prisse.net/muziekmama/shootthemoon.mp3)  
