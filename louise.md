@@ -30,5 +30,6 @@ Logincode: 215623703
 
 *nb. als het niet lukt vraag hulp aan een kleinkind of buurman; wij zijn even druk met andere dingen*
 
-[muziek bij de dienst](https://prisse.nl/muziekmama/)
+Links:  
+[muziek bij de dienst](https://prisse.nl/muziekmama/)  
 [het maken van de kist](https://prisse.net/muziekmama/kist.mp4)  
