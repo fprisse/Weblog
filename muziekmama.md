@@ -14,7 +14,7 @@ permalink: /muziekmama/
 Verdi floor's suggestie:  
 [liber scriptus](https://prisse.net/muziekmama/liberscriptus.mp3)  
 
-3) Bach_Cello Suite No1 in G (Dit stelt pien voor als muziek bij het binnenlopen)  
+3) Bach_Cello Suite No1 in G
 [praeludum](https://prisse.net/muziekmama/praeludum.mp3)   
 [allemande](https://prisse.net/muziekmama/allemande.mp3)  
 [courante](https://prisse.net/muziekmama/courante.mp3)  
