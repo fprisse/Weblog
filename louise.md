@@ -24,7 +24,8 @@ van Tuyll van Serooskerkenweg 27hs
 
 **Meekijken op de Computer kan wel:**  
 Dinsdag 22 december 2020 - 13.45 uur  
-[https://denieuweooster.liveonlinevideo.nl/](https://denieuweooster.liveonlinevideo.nl/)  
+[https://denieuweooster.liveonlinevideo.nl/](https://denieuweooster.liveonlinevideo.nl/)  ]
+
 Logincode: 215623703  
 (de link werkt vanaf 3 minuten voor aanvang)  
 
