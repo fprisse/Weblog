@@ -20,7 +20,7 @@ Verdi floor's suggestie:
 [allemande](https://prisse.net/muziekmama/allemande.mp3)
 [courante](https://prisse.net/muziekmama/courante.mp3)
 [sarabande](https://prisse.net/muziekmama/sarabande.mp3)
-[courante](https://prisse.net/muziekmama/menuet.mp3)
+[menuet](https://prisse.net/muziekmama/menuet.mp3)
 [gigue](https://prisse.net/muziekmama/gigue.mp3)
 (Nando maakt er nog 1 doorlopende file van vanavond)
 
