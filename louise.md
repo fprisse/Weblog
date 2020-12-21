@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Louise Donker 1942 - 2020
+title: Louise Prisse - Donker 1942 - 2020
 permalink: /louise/
 ---
 Amsterdam - 19 December 2020
