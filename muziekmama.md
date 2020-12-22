@@ -136,7 +136,7 @@ When you wake up, it's a new morning
 The sun is shining, it's a new morning
 You're going, you're going home
 
-### atalie Merchant - Motherland
+### Natalie Merchant - Motherland
 
 Where in the hell can you go
 Far from the things that you know
@@ -148,7 +148,7 @@ Commit this to memory and mind.
 Don't miss this wasteland, this terrible place
 When you leave, keep your heart off your sleeve
 
-MoMotherland cradle me,
+Motherland cradle me,
 Close my eyes, lullaby me to sleep.
 Keep me safe, lie with me, stay beside me don't go
 
