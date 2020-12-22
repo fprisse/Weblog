@@ -34,5 +34,6 @@ Logincode: 215623703
 (de link werkt vanaf 3 minuten voor aanvang)  
 
 [Programma en Muziek](https://prisse.nl/programma/)  
+[Orde van Dienst](https://prisse.net/muziekmama/ordevandienst.jpg)
 
 *nb. als het niet lukt vraag hulp aan een kleinkind of buurman; wij zijn even druk met andere dingen*
