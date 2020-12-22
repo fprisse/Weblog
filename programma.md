@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programma uitvaart Louise Donker
+title: Programma uitvaart Louise Prisse-Donker
 permalink: /programma/
 ---
 
