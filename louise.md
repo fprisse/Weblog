@@ -33,10 +33,6 @@ Dinsdag 22 december 2020 - 13.45 uur
 Logincode: 215623703  
 (de link werkt vanaf 3 minuten voor aanvang)  
 
+[Programma en Muziek](https://prisse.nl/programma/)  
+
 *nb. als het niet lukt vraag hulp aan een kleinkind of buurman; wij zijn even druk met andere dingen*
-
-
-
-
-Links:  
-[Programma en Muziek](https://prisse.nl/programma/)   
