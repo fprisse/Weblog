@@ -20,6 +20,7 @@ Wat we heel fijn vinden zijn brieven per post; deze kunnen naar onderstaand adre
 
 Therèse, Caroline en Florent
 
+Familie Prisse
 p/a Niels Jens Uitvaartzorg  
 van Tuyll van Serooskerkenweg 27hs  
 1076 JB Amsterdam  
@@ -34,7 +35,7 @@ Logincode: 215623703
 
 *nb. als het niet lukt vraag hulp aan een kleinkind of buurman; wij zijn even druk met andere dingen*
 
-
+  
 
 
 Links:  
