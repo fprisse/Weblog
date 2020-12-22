@@ -3,9 +3,8 @@ layout: page
 title: Programma uitvaart Louise Prisse-Donker
 permalink: /programma/
 ---
-
-[Recordare uit het Requiem van Verdi, Berlin Philharmonic Orchestra,uitgevoerd door Mirella Freni, Christa Ludwig en de Vienna Singverein](https://prisse.net/muziekmama/recordare.mp3)
-
+Bij inloop: [Recordare uit het Requiem van Verdi, Berlin Philharmonic Orchestra,uitgevoerd door Mirella Freni, Christa Ludwig en de Vienna Singverein](https://prisse.net/muziekmama/recordare.mp3)
+<center>
 De kleinkinderen Minne en Caatje steken de kaarsen aan
 
 **Thésa Prisse**  
