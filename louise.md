@@ -12,7 +12,7 @@ Amsterdam - 19 December 2020
 
 *Jemig, moeder wat heb je het goed gedaan ! Je hebt laten zien hoe mooi de wereld kan zijn en ons geleerd om te gaan met de onvermijdelijke hindernissen. Mama kwijt zijn is een flinke bult in de weg maar we doen het samen.*  
 
-Het afscheid doen wij in kleine kring in verband met Covid-19 maatregelen.
+Afgelopen dinsdag hebben we, in verband met Covid-19 maatregelen in kleine kring afscheid opgenomen.
 
 Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren waar we u graag zien en spreken.
 
@@ -25,14 +25,15 @@ p/a Niels Jens Uitvaartzorg
 van Tuyll van Serooskerkenweg 27hs  
 1076 JB Amsterdam  
 
+Er is een opname van de dienst gemaakt, op verzoek sturen we u die toe, u kunt één van ons daartoe een email sturen. ALs u geen email adres van ons heeft kunt uw naam en email hieronder invullen
 
+<form action="https://prisse.net/mailtome.php" method="POST">
+<input type="email" name="email" placeholder="vul@emailadres.in"><br/>
+<br/>
+<input type="submit" value="Verstuur Bericht">
+<br/>
 
-**Meekijken op de Computer kan wel:**  
-Dinsdag 22 december 2020 - 13.45 uur  
-[https://denieuweooster.liveonlinevideo.nl/](https://denieuweooster.liveonlinevideo.nl/)  
-Logincode: 215623703  
-(de link werkt vanaf 3 minuten voor aanvang)  
-
+links:
 [Programma en Muziek](https://prisse.nl/programma/)  
 [Orde van Dienst](https://prisse.net/muziekmama/ordevandienst.jpg)
 
