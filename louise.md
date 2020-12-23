@@ -28,9 +28,7 @@ van Tuyll van Serooskerkenweg 27hs
 Er is een opname van de dienst gemaakt, op verzoek sturen we u die toe, u kunt één van ons daartoe een email sturen. ALs u geen email adres van ons heeft kunt uw naam en email hieronder invullen
 
 <form action="https://prisse.net/mailtome.php" method="POST">
-<input type="email" name="email" placeholder="vul@emailadres.in"><br/>
-<br/>
-<input type="submit" value="Verstuur Bericht">
+<input type="email" name="email" placeholder="vul@emailadres.in">  <input type="submit" value="Verstuur">
 <br/>
 
 links:
