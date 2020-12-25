@@ -25,11 +25,13 @@ p/a Niels Jens Uitvaartzorg
 van Tuyll van Serooskerkenweg 27hs  
 1076 JB Amsterdam  
 
-Er is een opname van de dienst gemaakt, op verzoek sturen we u die toe, u kunt één van ons daartoe een email sturen. Als u geen email adres van ons heeft kunt u uw emailadres hieronder invullen  
+
 
 links:  
 [Programma en Muziek](https://prisse.nl/programma/)  
 [Orde van Dienst](https://prisse.net/muziekmama/ordevandienst.jpg)
+
+`Er is een opname van de dienst gemaakt, op verzoek sturen we u die toe, u kunt één van ons daartoe een email sturen. Als u geen email adres van ons heeft kunt u uw emailadres hieronder invullen`
 
 <form action="https://prisse.net/mailtome.php" method="POST">
 <input type="email" name="email" placeholder="vul@emailadres.in">  <input type="submit" value="Verstuur">
