@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Louise Prisse-Donker 1942 - 2020
+title: Louise Prisse-Donker
 permalink: /louise/
 ---
 
-### Mama is zaterdag in onze armen overleden.
+### Naarden 24 Augustus 1942 - Amsterdam 19 December 2020
 
-![louisedonker](https://prisse.nl/assets/louisedonker.jpg)  
+![louisedonker](https://prisse.nl/assets/louisedonker.jpg)
 
-Amsterdam - 19 December 2020  
+## Mama is zaterdag in onze armen overleden.   
 
 *Jemig, moeder wat heb je het goed gedaan ! Je hebt laten zien hoe mooi de wereld kan zijn en ons geleerd om te gaan met de onvermijdelijke hindernissen. Mama kwijt zijn is een flinke bult in de weg maar we doen het samen.*  
 
@@ -20,7 +20,7 @@ Wat we heel fijn vinden zijn brieven per post; deze kunnen naar onderstaand adre
 
 Therèse, Caroline en Florent
 
-Familie Prisse p/a Niels Jens
+Familie Prisse p/a Niels Jens  
 van Tuyll van Serooskerkenweg 27hs  
 1076 JB Amsterdam  
 
