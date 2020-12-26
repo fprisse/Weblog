@@ -3,7 +3,6 @@ layout: page
 title: Louise Prisse-Donker
 permalink: /louise/
 ---
-
 ##### Naarden 24 Augustus 1942 - Amsterdam 19 December 2020
 
 ![louisedonker](https://prisse.nl/assets/louisedonker.jpg)
