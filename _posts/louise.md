@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: Louise Prisse-Donker 1942 - 2020
+date: 2020-12-27 00:00:00 +0100
 permalink: /louise/
+categories: mama
 ---
 
 ### Mama is zaterdag in onze armen overleden.
