@@ -8,7 +8,7 @@ categories: mama
 
 ![louisedonker](https://prisse.nl/assets/louisedonker.jpg)  
 
-### Louise is zaterdag in onze armen overleden.
+### Mama is zaterdag in onze armen overleden.
 
 *Jemig, moeder wat heb je het goed gedaan ! Je hebt laten zien hoe mooi de wereld kan zijn en ons geleerd om te gaan met de onvermijdelijke hindernissen. Mama kwijt zijn is een flinke bult in de weg maar we doen het samen.*  
 
