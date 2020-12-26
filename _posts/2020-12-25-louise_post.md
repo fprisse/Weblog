@@ -12,11 +12,11 @@ categories: mama
 
 *Jemig, moeder wat heb je het goed gedaan ! Je hebt laten zien hoe mooi de wereld kan zijn en ons geleerd om te gaan met de onvermijdelijke hindernissen. Mama kwijt zijn is een flinke bult in de weg maar we doen het samen.*  
 
-Afgelopen dinsdag hebben we in kleine kring afscheid genomen.
+Afgelopen dinsdag hebben we in kleine kring afscheid genomen. Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren  
 
-Therèse, Caroline en Florent
+Therèse, Caroline en Florent  
 
-Brieven vinden we fijn; stuur deze naar:
+Brieven vinden we heel fijn; stuur deze naar:
 
 >Familie Prisse p/a Niels Jens  
 van Tuyll van Serooskerkenweg 27hs  
