@@ -20,8 +20,7 @@ Wat we heel fijn vinden zijn brieven per post; deze kunnen naar onderstaand adre
 
 Therèse, Caroline en Florent
 
-Familie Prisse
-p/a Niels Jens Uitvaartzorg  
+Familie Prisse p/a Niels Jens
 van Tuyll van Serooskerkenweg 27hs  
 1076 JB Amsterdam  
 
