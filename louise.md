@@ -12,7 +12,7 @@ Amsterdam - 19 December 2020
 
 *Jemig, moeder wat heb je het goed gedaan ! Je hebt laten zien hoe mooi de wereld kan zijn en ons geleerd om te gaan met de onvermijdelijke hindernissen. Mama kwijt zijn is een flinke bult in de weg maar we doen het samen.*  
 
-Afgelopen dinsdag hebben we, in verband met Covid-19 maatregelen in kleine kring afscheid opgenomen.
+Afgelopen dinsdag hebben we, in verband met Covid-19 maatregelen in kleine kring afscheid genomen.
 
 Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren waar we u graag zien en spreken.
 
