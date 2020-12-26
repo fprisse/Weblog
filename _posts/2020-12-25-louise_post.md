@@ -17,8 +17,7 @@ Afgelopen dinsdag hebben we in kleine kring afscheid genomen.
 
 Therèse, Caroline en Florent
 
->Brieven vinden we fijn; stuur deze naar:  
-
+Brieven vinden we fijn; stuur deze naar:  
 >Familie Prisse p/a Niels Jens  
 van Tuyll van Serooskerkenweg 27hs  
 1076 JB Amsterdam  
