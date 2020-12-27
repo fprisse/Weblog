@@ -13,7 +13,7 @@ permalink: /louise/
 
 Afgelopen dinsdag hebben we, in verband met Covid-19 maatregelen in kleine kring afscheid genomen.
 
-Later, als er wat meer kan en mag, zullen we een groter samenzijn organiseren waar we u graag zien en spreken.
+Later, als er meer kan en mag, zullen we een groter samenzijn organiseren waar we u graag zien en spreken.
 
 Wat we heel fijn vinden zijn brieven per post; deze kunnen naar onderstaand adres worden gestuurd.
 
