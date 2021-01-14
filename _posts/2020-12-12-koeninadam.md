@@ -5,7 +5,7 @@ date: 2020-12-12 03:00:00 +0100
 categories: Hond
 ---
 
-### "The force is strong with this one"
+### "The Force is strong with this one"
 
 <video style="width:100%" controls>
  <source src="https://prisse.nl/assets/koeninadam.mp4">videotag not supported
