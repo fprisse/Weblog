@@ -7,7 +7,7 @@ categories: Covid, Dieren
 
 ### Koen maakt zich er niet zo'n zorgen over
 
-![douwe-ab-oudjaar]({{ site.url }}/assets/avondklok.jpg)
+![avondklok]({{ site.url }}/assets/avondklok.jpg)
 
 Ik ook niet meer; ik hoef 'm niet te leren in de kattebak te kakken
 
