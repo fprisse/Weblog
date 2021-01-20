@@ -11,4 +11,4 @@ categories: Covid, Dieren
 
 Ik ook niet meer; ik hoef 'm niet te leren in de kattebak te kakken
 
-![Covid Maatregelen Rijksoverheid](https://www.rijksoverheid.nl/actueel/nieuws/2021/01/20/lockdown-verder-aangescherpt-vanwege-zorgen-om-nieuwe-virusvarianten)
+[Covid Maatregelen Rijksoverheid](https://www.rijksoverheid.nl/actueel/nieuws/2021/01/20/lockdown-verder-aangescherpt-vanwege-zorgen-om-nieuwe-virusvarianten)
