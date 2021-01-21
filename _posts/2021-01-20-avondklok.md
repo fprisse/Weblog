@@ -7,8 +7,6 @@ categories: Covid, Dieren
 
 ### Koen maakt zich er niet zo'n zorgen over
 
-![avondklok]({{ site.url }}/assets/avondklok.jpg)
-
 <video style="width:100%" controls>
   <source src="{{ site.url }}/assets/uitlaten.mp4">
  ![videotag not supported]({{ site.url }}/assets/avondklok.jpg)
