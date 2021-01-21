@@ -9,6 +9,11 @@ categories: Covid, Dieren
 
 ![avondklok]({{ site.url }}/assets/avondklok.jpg)
 
-Ik ook niet meer; ik hoef 'm niet te leren in de kattebak te kakken
+<video style="width:100%" controls>
+  <source src="{{ site.url }}/assets/uitlaten.mp4">
+ ![videotag not supported]({{ site.url }}/assets/avondklok.jpg)
+</video> 
+
+Ik ook niet meer; ik hoef 'm gelukkig niet te leren in de kattebak te kakken. En ... NEE, je mag hem niet lenen om toch bij je liefje langs te gaan "anders slaapt hij niet".
 
 [Covid Maatregelen Rijksoverheid](https://www.rijksoverheid.nl/actueel/nieuws/2021/01/20/lockdown-verder-aangescherpt-vanwege-zorgen-om-nieuwe-virusvarianten)
