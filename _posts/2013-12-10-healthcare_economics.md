@@ -17,7 +17,7 @@ For more:[https://www.vbhc.nl/what-is-value-based-healthcare](https://www.vbhc.n
 
 ==
 
-Three years ago, in the midst of the national health-care debate, Planet Money & This American Life tried to figure out why health care costs keep rising, and how health insurance works (or rather how it does not work).
+In the midst of the national health-care debate, Planet Money & This American Life tried to figure out why health care costs keep rising, and how health insurance works (or rather how it does not work).
 
 More is less
 <audio src="{{ site.url }}/assets/amlife-more_is_less.mp3" controls>
