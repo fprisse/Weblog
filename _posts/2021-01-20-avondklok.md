@@ -14,4 +14,4 @@ categories: Covid, Dieren
 
 Ik ook niet meer; ik hoef 'm gelukkig niet te leren in de kattebak te kakken. Met heup- en thermosflessen de stad in ! (of was dat nu juist weer niet de bedoeling ?)
 
-[Covid Maatregelen Rijksoverheid](https://www.rijksoverheid.nl/actueel/nieuws/2021/01/20/lockdown-verder-aangescherpt-vanwege-zorgen-om-nieuwe-virusvarianten)
+[Zoek Covid Maatregel in Rijksoverheid](https://www.rijksoverheid.nl/actueel/nieuws?trefwoord=covid+maatregel)
