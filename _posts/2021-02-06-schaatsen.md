@@ -7,6 +7,9 @@ categories: Spullen
 
 ### Ik ben er klaar voor !
 
-![schaatsen](https://prisse.net/schaatsen.jpg)
+<video style="width:100%" controls>
+ <source src="https://prisse.nl/assets/schaatsenslijpen.mp4">![schaatsen](https://prisse.net/schaatsen.jpg)
+ </video>
+
 
 Nou .... mijn schaatsen zijn er klaar voor.
