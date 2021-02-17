@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anne-Beitske Jarig !
-date: 2021-02-13 22:00:00 +0100
+date: 2021-02-14 22:00:00 +0100
 categories: friesland
 ---
 
