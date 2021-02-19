@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Huis van moeder te koop"
-date: 2020-09-25 00:00:01 +0100
-categories: Covid-19
+date: 2021-02-19 12:30:00 +0100
+categories: Mama
 ---
 
 ### Mooiste huis van Amsterdam, echt namelijk
