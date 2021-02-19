@@ -10,6 +10,6 @@ categories: friesland
  <source src="https://prisse.net/verjaardag_ab.mp4 ">videotag not supported
  </video>
 
-Gisteren had ik de grote eer om, naast 11 van haar vriendjes, als enige volwassene te gast te mogen zijn op de 6e verjaardag van Anne-Beitske. Het was tegelijkertijd ook de ultime vuurdoop voor Koen, die voorbeeldig de hele dag om de kinderen heen dartelde.
+Gisteren had ik de grote eer om, naast 11 van haar vriendjes, uitgenodigd te worden op de 6e verjaardag van Anne-Beitske. Het was tegelijkertijd ook de ultime vuurdoop voor Koen, die voorbeeldig de hele dag om de kinderen heen dartelde.
 
 De volgende morgen heb ik mij aangesloten bij de "Râne-stedske Feriening fan IIsmasters" om mij veiliger dan ooit over de swarte plak te laten leiden ![ijsprikken]({{ site.url }}/assets/ijsprikken.png)
