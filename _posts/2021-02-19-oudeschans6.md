@@ -9,4 +9,4 @@ categories: Mama
 
 ![jaimee]({{ site.url }}/assets/oudeschans6.gif)
 
-Straks komt de fotograaf het hele huis vastleggen voor Funda, dus zojuist nog even de ramen gelapt. Afscheid met pijn aan ons hart. Mocht je interesse hebben dan kan je een afspraak maken met [Ewoud Brummer](tel:+31206161688) van [Brummer & Co](https://brummermakelaars.nl/)
+Straks komt de fotograaf het hele huis vastleggen voor Funda, dus zojuist nog even de ramen gelapt. Afscheid met pijn aan ons hart. Mocht je interesse hebben dan kan je een afspraak maken met [Ewoud](tel:+31206161688) van [Brummer & Co](https://brummermakelaars.nl/)
