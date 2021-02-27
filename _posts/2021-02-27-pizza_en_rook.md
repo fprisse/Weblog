@@ -6,7 +6,7 @@ categories:
 ---
 ### Ik heb geen hobbies
 
-Dat ik [geen sigaretten meer]({{ site.url }}/roken/) in de fik steek terwijl ze in mijn mond zitten betekent niet dat er niet meer gerookt mag worden. 
+Dat ik [geen sigaretten meer](#dat-doen-we-dus-ook-niet-meer)in de fik steek terwijl ze in mijn mond zitten betekent niet dat er niet meer gerookt mag worden. 
 
 ![rookoven]({{ site.url }}/assets/rookoven.png)
 
