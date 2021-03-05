@@ -5,7 +5,7 @@ date: 2021-02-14 22:00:00 +0100
 categories: friesland
 ---
 
-### Kinderparij in Corona tijd
+### Kinderpartij in Corona tijd
 <video style="width:100%" controls>
  <source src="https://prisse.net/verjaardag_ab.mp4 ">videotag not supported
  </video>
