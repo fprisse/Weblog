@@ -9,7 +9,7 @@ date: "2014-12-31 00:01"
 
 ### December 1, 2014 : GROTE MENEER VAN BERNOU SCHRAM
 
-![bernou]({{ site.url }}/assets/bernou.png)
+![bernou]({{ site.url }}/assets/bernou.jpg)
 
 Sinds vandaag hangt in mijn werkkamer een werk van Bernou Schram dat zij vandaag is komen brengen. Ondanks dat er nu een meneer, met een hooft van meer dan een meter groot, mij de hele dag zit aankijkt, is het werk eerder geruststellend dan verontrustend: Ik heb eerder het gevoel dat hij op mij past dan dat hij op mij let.
 
