@@ -9,4 +9,4 @@ categories: Gaastmeer
 
 ![pipo_schets]({{ site.url }}/assets/pipo_schets.jpg)
 
-Vorige week bij de [fiction factory](https://www.fictionfactory.nl/en/who/workshop/) op bezoek geweest om de nieuwe te bouwen Pipowagen voor Gaastmeer te bespreken. Ik werd er helemaal blij van, als de voorpret indicatief is voor het resultaat dan wordt het prachtig
+Vorige week bij de [fiction factory](https://www.fictionfactory.nl/en/who/workshop/) op bezoek geweest, Ik overweeg hen mijn nieuwe Pipowagen voor Gaastmeer te laten bouwen. Ik werd er helemaal blij van, als de voorpret indicatief is voor het resultaat dan wordt het prachtig. Nu nog even puzzelen.
