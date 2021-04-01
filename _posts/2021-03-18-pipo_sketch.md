@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Hapklare Brokken
-date: 2021-03-18 21:35:00 +0100
+title: Kleine Dingen
+date: 2021-01-01 18:05:00 +0100
 categories: Gaastmeer
 ---
 
-### anders blijft het vooral fictie
-![piposketch]({{ site.url }}/assets/piposketch.png)
+### Het zijn de kleine dingen die het doen
+![piposketch]({{ site.url }}/assets/piposlides.gif)
 
-Om de opdacht voor een nieuwe pipo-wagen zorgenloos over de muur te gooien blijkt toch een beetje een prijzige aangelegheid. Dus nu hobbyen achter de tekentafel aan een modulair ontwerp dat ik per fase en specialisme kan laten bouwen. Daarmee practiserend wat ik dagelijks predik, werkvoorberieding en planning in eigen beheer !
+De volgende ronde: Een hapklare brokken ontwerp. Een tandje moderner en vooral een duidelijke demarkatie van Staalwerk, Houtwerk voor de CNC-Machine, Meubelwerk en Assemblage. Wat het hopelijk makkelijk maakt om een en ander scherp uit te besteden. En verder: wat er nog aan ontbrak is een mooie oplossing om de staanders aan de kar te maken; daar had Chris (de man die alles kan) hij trok een lade open en daar lag waar ik op hoopte. Een schroefdraad bus die je knelt op het gegalvaniseerde staal. Zoiets heeft ook meteen een prachtige naam: [Blindklinkmoer](https://nl.wikipedia.org/wiki/Blindklinkmoer)
+
+//https://ezgif.com/maker/ezgif-6-7ee328f4-gif
