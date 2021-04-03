@@ -29,18 +29,18 @@ var clipboard = new Clipboard('.share-btn');
    <!-- End Matomo Code -->
 
 
-  <!-- Nee, je bent niet gehacked  --> 
+  <!-- Ga wat anders doen --> 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
   
   <script> 
   $.getJSON("http://jsonip.com?callback=?", function (data) { 
    var date = new Date().toLocaleDateString(); 
    var visitor = localStorage.getItem('visitor') 
-   if ((data.ip == "45.138.231.40" || visitor == "hebbes") && localStorage.yourapp_date != date) { 
-     alert("Oeps !"); 
+   if ((data.ip == "194.13.145.106" || data.ip == "86.85.125.242" ||visitor == "roos") && localStorage.yourapp_date != date) { 
+     alert("Ga wat anders doen !"); 
      localStorage.yourapp_date = date; 
-     localStorage.setItem('visitor','hebbes'); 
+     localStorage.setItem('visitor','roos'); 
   } 
   }); 
   </script> 
-  <!--  je bent gewoon voorspelbaar ---> 
+  <!--  Of bel me op ---> 
