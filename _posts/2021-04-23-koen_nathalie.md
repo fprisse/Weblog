@@ -7,4 +7,4 @@ categories: hond
 ### Maar wel de liefste en de leukste
 ![koen_nathalie]({{ site.url }}/assets/koen_nathalie.jpg)  
 
-Zelf de polite agent die hij in zijn enthousiasme zoojuist van zijn fiets afsleurde kon er alleen maar het goede van zien. Hem opvoeden op straat levert ook met enige regelmaat het goedbedoeld commentaar op "maar hij is zo liiief!"
+Zelf de polite agent die hij in enthousiasme zoojuist van de fiets afsleurde kon er alleen maar het goede van zien. Hem opvoeden op straat levert ook met enige regelmaat het goedbedoeld commentaar op "maar hij is zo liiief!"
