@@ -6,7 +6,7 @@ categories:
 ---
 ### Ik heb geen hobbies
 
-Dat ik geen [sigaretten](#dat-doen-we-dus-niet-meer) meer in de fik steek betekent niet dat er niet gerookt mag worden. 
+Dat ik geen [sigaretten](#dat-doen-we-dus-niet-meer) in de fik steek betekent niet dat er niet gerookt mag worden. 
 
 ![rookoven]({{ site.url }}/assets/rookoven.png)
 
