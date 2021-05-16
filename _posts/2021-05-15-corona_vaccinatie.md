@@ -5,7 +5,7 @@ date: 2021-05-15 00:02:00 +0100
 categories: Corona
 ---
 
-### Ik ben zaterdag aan de beurt
+### Zaterdag aan de beurt
 
 ![corona_vac]({{ site.url }}/assets/corona_vac.jpg)
 
