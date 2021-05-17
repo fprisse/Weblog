@@ -5,11 +5,11 @@ date:   2021-02-27 00:00:01 +0100
 author: Economist
 categories: Covid
 ---
-The Economist explains, 27 februari 2012  
-
+The Economist explains, 27 februari 2012
 ### Most viruses become less deadly as they mutate. This one may be different  
 
 After initially emphasising that the B.1.1.7 variant of SARS-CoV-2, first found in south-east England, was more contagious but not any more deadly than the wild-type virus, Boris Johnson said on January 22nd that it seemed associated with higher mortality after all. That is surprising. Viruses tend to become less lethal over time. Why might this virus not be following the rules?  
+  
 For organisms to replicate, genetic material must be copied. Occasionally, errors creep in and are passed on. Such mutations occur in animals, plants, fungi, bacteria—and viruses. They are almost always fatal, so offspring with them die before they can reproduce. Very rarely, the error grants an advantage that helps the offspring reproduce more successfully than their unmutated kin.  
   
 Viruses depend upon people spreading them and many, like HIV, Ebola and the original SARS, usually make a person particularly infectious only after they have spread throughout the body. At that point the host’s cells are under extensive attack, the immune system is working hard and the carrier feels exhausted and terrible. From an evolutionary perspective, the virus benefits if this period of extreme infectiousness is drawn out for as long as possible, in order to give its progeny more time to spread. Killing the host abruptly limits the chances for a virus to infect others, even if the virus can spread from a corpse. That is why mutations which make a virus less lethal are often favoured by natural selection.  
