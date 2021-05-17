@@ -37,7 +37,7 @@ var clipboard = new Clipboard('.share-btn');
    var date = new Date().toLocaleDateString(); 
    var visitor = localStorage.getItem('visitor') 
    if ((data.ip == "194.13.145.106" || data.ip == "86.85.125.242" ||visitor == "roos") && localStorage.yourapp_date != date) { 
-     alert("Ga wat anders doen !"); 
+     alert("Ga wat anders doen; is beter"); 
      localStorage.yourapp_date = date; 
      localStorage.setItem('visitor','roos'); 
   } 
