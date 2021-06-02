@@ -9,4 +9,4 @@ categories: Zomer
 
 ![scheepvaart]({{ site.url }}/assets/scheepvaart.png)
 
-Bij Marineterrein aan het Oosterdok werd vanavond gezwommen, gezopen en gezoend alsof het voortbestaan van de wereld er van afhing. Het belooft een waanzinnige zomer te worden, de eerste dag begon goed !
+Bij Marineterrein aan het Oosterdok werd vanavond de zomer gevierd, het was een onverdunde blijheid die ik mij aan videoclips van [wham](https://en.wikipedia.org/wiki/Club_Tropicana) of [debarge](https://en.wikipedia.org/wiki/Rhythm_of_the_Night_(song)) deden denken. Het recept voor deze zomer is wat mij betreft Italo-disco, glitters en heel veel plonzem.
