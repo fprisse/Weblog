@@ -9,6 +9,6 @@ categories: Nieuwendam
 
 ![nieuwendam]({{ site.url }}/assets/nieuwendam.jpg)
 
-Na een heerlijke lunch bij Jay, samen met Maarten & Maxwell bij Robbert & Margriet aan het buurten en vandaar (na het eerste zwemmetje van het jaar) weer voor het donker naar huis.
+Deze zondag eerst een heerlijke lunch bij Jay; Samen met Maarten & Maxwell naar Robbert & Margriet in Noord en vandaar (na het eerste zwemmetje van het jaar) weer voor het donker naar huis.
 
 PS: verjaardagfeestje komt dit jaar pas nadat de lock-down er volledig af gaat, even geduld dus.
