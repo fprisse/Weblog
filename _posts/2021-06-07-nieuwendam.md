@@ -11,4 +11,4 @@ categories: Nieuwendam
 
 Deze zondag eerst een heerlijke lunch bij Jay; Samen met Maarten & Maxwell naar Robbert & Margriet in Noord en vandaar (na het eerste zwemmetje van het jaar) weer voor het donker naar huis.
 
-PS: verjaardagfeestje komt dit jaar pas nadat de lock-down er volledig af gaat, even geduld dus.
+PS: verjaardagfeestje komt dit jaar pas nadat de lock-down er volledig af gaat, en we mijn moeder met zijn allen hebben laten verwaaien; dat lijkt mij de goede volgorde; even geduld dus nog.
