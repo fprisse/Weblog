@@ -9,4 +9,4 @@ categories: werk
 
 ![rfc-leeuwarden](https://prisse.net/rfc-leeuwarden.jpg)
 
-Het is exact 10 maanden geleden dat ik voor het laatst voet in een melkfabriek zette. Vandaag ben ik welkom in Leeuwarden. Hoewel ik oprecht denk dat we waardevol werk vanuit thuis hebben kunnen leveren is het wel prettig om de mensen met wie je zo intensief samenwerkt eenmaal in levende lijve te zien.
+Het is exact 10 maanden geleden dat ik voor het laatst voet in een melkfabriek zette. Vandaag ben ik welkom in Leeuwarden. Hoewel ik oprecht denk dat we waardevol werk vanuit huis hebben geleverd is het wel prettig om de mensen met wie je zo intensief samenwerkt eenmaal in levende lijve te zien.
