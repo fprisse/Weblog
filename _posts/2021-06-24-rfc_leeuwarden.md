@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fabriek Leeuwarden
-date: 2021-06-21 0u7:41:00 +0100
+date: 2021-06-24 12:41:00 +0100
 categories: werk
 ---
 
@@ -9,4 +9,4 @@ categories: werk
 
 ![rfc-leeuwarden](https://prisse.net/rfc-leeuwarden.jpg)
 
-Het is op 1 dag na 10 maanden geleden dat ik voor het laatst voet in een melkfabriek zette. Vandaag was ik welkom in Leeuwarden. Hoewel ik oprecht denk dat we waardevol werk vanuit thuis hebben kunnen leveren is het wel prettig om de mensen met wie je zo intensief samenwerkt eenmaal in levende lijve te zien.
+Het is morgen exact 10 maanden geleden dat ik voor het laatst voet in een melkfabriek zette. Vandaag ben ik welkom in Leeuwarden. Hoewel ik oprecht denk dat we waardevol werk vanuit thuis hebben kunnen leveren is het wel prettig om de mensen met wie je zo intensief samenwerkt eenmaal in levende lijve te zien.
