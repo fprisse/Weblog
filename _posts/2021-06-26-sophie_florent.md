@@ -2,7 +2,7 @@
 layout: post
 title: Verjaardagsfeest !
 date: 2021-06-24 12:41:00 +0100
-categories: werk
+categories: Amsterdam
 ---
 
 ### Vrijdag 9 Juli 2021
