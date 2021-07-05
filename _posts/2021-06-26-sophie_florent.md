@@ -13,5 +13,5 @@ We hadden het even uitgesteld zodat we, zonder [een grapperhausje](https://www.n
 Als je van buiten Amsterdam komt en niet naar huis wil rijden na het dansen boek dan een kamer in [Hotel V aan het Nesplein](https://nesplein.hotelv.com/) (dat is ernaast)
 
 HET WORDT GEZELLIG DRUK!  
-[PRINT VOOR DE ZEKERHEID JE CORONABEWIJS HIER](https://coronacheck.nl/nl/print/)
+[Print je Coronabewijs hier](https://coronacheck.nl/nl/print/)
 TOT VRIJDAG !
