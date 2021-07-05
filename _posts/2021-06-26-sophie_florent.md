@@ -14,5 +14,5 @@ We beginnen om 20.30
 Als je van buiten Amsterdam komt en niet naar huis wil rijden na het dansen boek dan een kamer in [Hotel V aan het Nesplein](https://nesplein.hotelv.com/) (dat is ernaast)
 
 HET WORDT GEZELLIG DRUK!  
-[Print je Coronabewijs hier](https://coronacheck.nl/nl/print/)
+[Print je Coronabewijs hier](https://coronacheck.nl/nl/print/)  
 TOT VRIJDAG !
