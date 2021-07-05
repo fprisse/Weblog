@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UPDATE Verjaardagsfeest !
+title: Verjaardagsfeest !
 date: 2021-06-24 12:41:00 +0100
 categories: Amsterdam
 ---
@@ -16,7 +16,6 @@ Achter de platentafel staat [Berry van Diepen](https://www.parool.nl/kunst-media
 Wanneer: [Vrijdag 9 Juli 2021 - 20.30](https://prisse.nl/verjaarsfeest.ics) tot laat  
 Waar: [Café Jones](https://goo.gl/maps/pjEW8jc8s4Z7enGY9), NES 33, 1012 KC AMSTERDAM  
 Slapen: [Hotel V](https://nesplein.hotelv.com/) aan het Nesplein  
+Coronabewijs: [Papieren Versie](https://coronacheck.nl/nl/print/)  (niet verplicht, vooralsnog)
   
-HET WORDT GEZELLIG DRUK!  
-[Print je Coronabewijs hier](https://coronacheck.nl/nl/print/)  
 TOT VRIJDAG !
