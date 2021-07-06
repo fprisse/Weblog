@@ -7,7 +7,7 @@ categories: Amsterdam
 
 ### Vrijdag 9 Juli 2021
 
-![labbirthday](https://prisse.nl/labbirthday.png)
+![labbirthday](https://prisse.nl/assets/labbirthday.png)
 
 Het moest even worden uitgesteld zodat er, zonder een Grapperhausje te maken, een feestje kon worden gegeven. Nu is het zover: over 10 dagen vieren we enigzins vertraagd mijn erjaardag.  
   
