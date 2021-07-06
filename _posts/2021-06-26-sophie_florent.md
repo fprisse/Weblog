@@ -9,7 +9,7 @@ categories: Amsterdam
 
 ![labbirthday](https://prisse.nl/labbirthday.png)
 
-Het moest even worden uitgesteld zodat er, zonder een Grapperhausje te maken, een feestje kon worden gegeven. Nu is het zover: over 10 dagen vier ik enigzins vertraagd mijn erjaardag.  
+Het moest even worden uitgesteld zodat er, zonder een Grapperhausje te maken, een feestje kon worden gegeven. Nu is het zover: over 10 dagen vieren we enigzins vertraagd mijn erjaardag.  
   
 Achter de platentafel staat [Berry van Diepen](https://www.parool.nl/kunst-media/deze-platen-neemt-dj-berry-van-diepen-mee-naar-een-onbewoond-eiland~badedece/?referrer=https%3A%2F%2Fwww.prisse.nl%2F).  
   
