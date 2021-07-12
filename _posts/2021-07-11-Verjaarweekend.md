@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uitgebreid gevierd
-date: 2021-06-24 12:41:00 +0100
+date: 2021-06-23 12:41:00 +0100
 categories: werk
 ---
 
