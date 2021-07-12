@@ -27,20 +27,3 @@ var clipboard = new Clipboard('.share-btn');
      })();
    </script>
    <!-- End Matomo Code -->
-
-
-  <!-- Niet blind voor de tekortkomingen --> 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
-  
-  <script> 
-  $.getJSON("http://jsonip.com?callback=?", function (data) { 
-   var date = new Date().toLocaleDateString(); 
-   var visitor = localStorage.getItem('visitor') 
-   if ((data.ip == "194.13.145.106" || data.ip == "86.85.125.242" ||visitor == "roos") && localStorage.yourapp_date != date) { 
-     alert("Wie kijkt naar wie?"); 
-     localStorage.yourapp_date = date; 
-     localStorage.setItem('visitor','roos'); 
-  } 
-  }); 
-  </script> 
-  <!-- En blijvend ziend van het schone ---> 
