@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Koen Ophalen
-date: 2021-07-11 09:00:00 +0100
-categories: werk
+date: 2021-07-13 09:00:00 +0100
+categories: koen
 ---
 
 ### Foto is mooie samenvatting
